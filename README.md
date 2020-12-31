@@ -36,11 +36,12 @@ PHP 选修课的期末课设
 3.申请暂时离院
 4.申请调换病房
 
-五、前端界面优化工作
+五、前端界面优化工作:
 1.功能设计简洁直观
 2.整体风格统一
 3.界面清晰美观
 
+使用说明:
 <br><br>
 创建 MySql 数据库：
 <br>
@@ -48,4 +49,4 @@ PHP 选修课的期末课设
 <br><br>
 修改数据库连接：
 <br>
-dorm/public/_share/[_pdo.php](https://github.com/Surbowl/dormitory-management-php/blob/master/dorm/public/_share/_pdo.php)
+ward/public/_share/[_pdo.php](https://github.com/Surbowl/dormitory-management-php/blob/master/dorm/public/_share/_pdo.php)
